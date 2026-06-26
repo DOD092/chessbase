@@ -1,0 +1,23 @@
+# File nén lớn
+*.rar
+*.zip
+*.7z
+
+# File chạy / engine
+*.exe
+*.dll
+
+# ChessBase database
+*.cbh
+*.cbv
+*.ctg
+*.cto
+*.ctb
+*.cba
+*.cbb
+*.cbp
+*.cbt
+
+# Windows
+Thumbs.db
+desktop.ini
